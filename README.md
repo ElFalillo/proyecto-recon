@@ -2910,7 +2910,7 @@ crontab -l
 
 </details>
 <details>
-<summary><h2><b> R3con, base de datos MariaDB: diseño, automatización e instalación </b></h2></summary>
+<summary><h2><b> 🗄️ R3con, base de datos MariaDB: diseño, automatización e instalación </b></h2></summary>
 
 La base de datos de R3con pasa a MariaDB y se instala en la VM r3con-db (10.10.30.20). El diseño se ha revisado a partir de la web: login con usuario y contraseña, dashboard, calendario, historial de informes y avisos. La lógica repetitiva se ejecuta dentro de la propia base de datos con triggers, procedimientos y eventos.
 

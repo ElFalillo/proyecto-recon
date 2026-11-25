@@ -1,7 +1,5 @@
 # R3con, base de datos MariaDB: diseño, automatización e instalación
 
-Nov 8, 2026 · @RICARD
-
 La base de datos de R3con pasa a MariaDB y se instala en la VM r3con-db (10.10.30.20). El diseño se ha revisado a partir de la web: login con usuario y contraseña, dashboard, calendario, historial de informes y avisos. La lógica repetitiva se ejecuta dentro de la propia base de datos con triggers, procedimientos y eventos.
 
 ## Instalación paso a paso en r3con-db

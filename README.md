@@ -2909,3 +2909,7 @@ crontab -l
 - **Acceso sin contraseña:** sin la clave SSH del apartado 15.1, `rsync` pediría contraseña y el backup automático no funcionaría.
 
 </details>
+<details>
+<summary><h2><b> Base de datos </b></h2></summary>
+
+</details>
